@@ -1,0 +1,5 @@
+full_name,email,manager_email,
+  Alice Johnson  , ALICE@COMPANY.COM ,
+ Bob Smith,BOB@company.com  ,  alice@company.com
+Carol White,carol@company.com,alice@company.com
+Carol White,carol@company.com,alice@company.com

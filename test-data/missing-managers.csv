@@ -1,0 +1,5 @@
+full_name,email,manager_email
+Alice Johnson,alice@company.com,
+Bob Smith,bob@company.com,alice@company.com
+Carol White,carol@company.com,nonexistent@company.com
+David Brown,david@company.com,unknown@company.com
